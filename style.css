@@ -60,6 +60,27 @@ p {
   color: white;
 }
 
+.instructions-2 {
+  text-align: center;
+  margin: 30px;
+}
+
+.instructions-2 h2 {
+  font-family: papyrus;
+  font-size: 36px;
+  color: white;
+}
+
+.instructions-2 ul {
+  list-style-type: none;
+}
+
+.instructions-2 li {
+  font-family: papyrus;
+  font-size: 24px;
+  color: white;
+}
+
 .button {
   text-align: center;
   margin-top: 50px;
