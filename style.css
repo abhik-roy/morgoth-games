@@ -1,50 +1,86 @@
 body {
-    background-color: #4B3832;
-  }
-  
-  .header {
-    text-align: center;
-  }
-  
-  h1 {
-    font-family: papyrus;
-    font-size: 72px;
-    color: white;
-  }
-  
-  .images {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  img {
-    width: 50%;
-    margin: 10px;
-  }
-  
-  .text {
-    text-align: center;
-    margin: 30px;
-  }
-  
-  p {
-    font-family: papyrus;
-    font-size: 24px;
-    color: white;
-  }
-  
-  .button {
-    text-align: center;
-    margin-top: 50px;
-  }
-  
-  a {
-    font-family: papyrus;
-    font-size: 36px;
-    color: white;
-    background-color: black;
-    padding: 20px 40px;
-    text-decoration: none;
-  }
-  
+  background-color: #4B3832;
+}
+
+.header {
+  text-align: center;
+}
+
+h1 {
+  font-family: papyrus;
+  font-size: 72px;
+  color: white;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 50%;
+  margin: 10px;
+}
+
+.text {
+  text-align: center;
+  margin: 30px;
+}
+
+p {
+  font-family: papyrus;
+  font-size: 24px;
+  color: white;
+}
+
+.description {
+  text-align: center;
+  margin: 30px;
+}
+
+.instructions {
+  text-align: center;
+  margin: 30px;
+}
+
+.instructions h2 {
+  font-family: papyrus;
+  font-size: 36px;
+  color: white;
+}
+
+.instructions ul {
+  list-style-type: none;
+}
+
+.instructions li {
+  font-family: papyrus;
+  font-size: 24px;
+  color: white;
+}
+
+.button {
+  text-align: center;
+  margin-top: 50px;
+}
+
+a {
+  font-family: papyrus;
+  font-size: 36px;
+  color: white;
+  background-color: black;
+  padding: 20px 40px;
+  text-decoration: none;
+}
+
+.retro-blurb {
+  text-align: center;
+  margin: 30px;
+}
+
+.retro-blurb p {
+  font-family: papyrus;
+  font-size: 24px;
+  color: white;
+}
